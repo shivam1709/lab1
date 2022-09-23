@@ -1,36 +1,34 @@
-body {
+body{
     margin: 10%;
-    background-color: antiquewhite;
+ background-color: antiquewhite;
 }
 
-#img {
+#img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
-    height: 200px;
+    width:200px;height:200px;
     border: 5px solid rgb(8, 1, 1);
 }
-
-h2,
-h1,
-h3 {
+h2, h1, h3{
     text-align: center;
 }
-
-.div {
+.div{
     border-style: groove;
+   
 }
-
-p {
-    margin: 1%;
+.div-main{
+    border-style: groove;
+    margin: 10%;
 }
-
+p{
+   margin: 1%;
+}
 hr {
-    border: none;
-    border-top: 1px dashed rgb(0, 0, 0);
-    color: #fff;
-    background-color: #fff;
-    height: 1px;
-    width: 20%;
-}
+    border:none;
+    border-top:1px dashed rgb(0, 0, 0);
+    color:#fff;
+    background-color:#fff;
+    height:1px;
+    width:20%;
+    }
